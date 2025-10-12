@@ -1,0 +1,3 @@
+mapreduce is fun
+hello world hello
+test test test
